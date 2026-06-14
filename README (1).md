@@ -31,7 +31,7 @@ The **Smart Temperature Monitor** is an embedded system built using Arduino that
 
 ## Circuit Diagram / Simulation
 View the live simulation on Tinkercad:
-[Smart Temperature Monitor - Tinkercad](https://www.tinkercad.com/things/khra6uX6y88-smart-temperature-system-)
+[Smart Temperature Monitor - Tinkercad](https://www.tinkercad.com/things/khra6uX6y88-smart-temperature-system-?sharecode=hLdfhvUiku8a57DBGODCEsYM2SOSlCYQil3mGF7jhfI)
 
 ## Code
 ```cpp
